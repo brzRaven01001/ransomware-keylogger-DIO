@@ -1,0 +1,3 @@
+# External dependency used by ransomware/encrypt.py and ransomware/decrypt.py.
+# tkinter, smtplib, email, and the other modules used are part of Python's standard library.
+cryptography>=41.0.0

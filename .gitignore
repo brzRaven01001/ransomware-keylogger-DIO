@@ -1,0 +1,26 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Saídas locais dos exercícios (nunca versionar chaves ou dados capturados)
+chave.key
+*.locked
+LEIA_ME.txt
+registros.txt
+**/registros.txt
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
