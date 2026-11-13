@@ -139,5 +139,3 @@ For Gmail, use an appropriate app credential and enable sending only when needed
 - [Python documentation](https://docs.python.org/3/), including `venv`, `tkinter`, and `smtplib`.
 
 ---
-
-Study project. Add your actual observations before presenting or publishing the work.
