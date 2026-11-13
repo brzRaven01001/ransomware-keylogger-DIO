@@ -139,5 +139,3 @@ Para Gmail, use uma credencial apropriada para aplicativo e habilite o envio som
 - [Documentação do Python](https://docs.python.org/3/), incluindo `venv`, `tkinter` e `smtplib`.
 
 ---
-
-Projeto de estudo. Personalize esta documentação com suas observações reais antes de apresentar ou publicar o trabalho.
